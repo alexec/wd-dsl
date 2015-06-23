@@ -1,6 +1,6 @@
 # WebDriver Groovy DSL
 
-An experiment at created a nice WebDriver DSL:
+An experiment to create a WebDriver DSL:
 
 ~~~
 wd {
