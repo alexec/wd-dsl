@@ -2,7 +2,7 @@
 
 An experiment to create a WebDriver DSL:
 
-~~~
+~~~groovy
 wd {
     // search for tutorials on Google
     go "http://www.google.com"
